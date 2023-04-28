@@ -1,0 +1,22 @@
+h1{
+    color: yellow;
+    background-color: black; 
+}
+
+.text {
+
+    color: red;
+}
+
+
+#text2 {
+
+    color: purple;
+}
+
+table,th,td{
+    border-spacing: 0px;
+
+    border: 2px solid black
+}
+
